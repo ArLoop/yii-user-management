@@ -42,7 +42,7 @@ $ wget http://www.yiiframework.com/extension/yii-user-management/files/User_Mana
 $ tar xvf User_Management_Module_0.8.tar.bz2
 
 4.) The Yii-user-management module contains submodules that you just extracted
-into your application's modules/ directory. The installation script will provide
+into your application's modules/ directory. The installation script will provide. For installation tutorial we only need the user module at modules/user
 
 $ [youreditor] protected/config/main.php
 
